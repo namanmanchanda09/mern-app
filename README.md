@@ -7,10 +7,10 @@
 ```npm install```
 
 ### Go to server folder and run 
-```node index.js``` on terminal. This will start the GraphQL server on ###### localhost:4000
+```node index.js``` on terminal. This will start the GraphQL server on [localhost:4000](http://localhost:4000)
 
 ### Go to client folder and run
-```npm start``` on terminal. This will start the ReactJS development environment on ###### localhost:3000
+```npm start``` on terminal. This will start the ReactJS development environment on [localhost:3000](http://localhost:3000)
  
 
 
